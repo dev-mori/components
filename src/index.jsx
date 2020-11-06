@@ -9,6 +9,7 @@ const App = () => {
   return (
     <div className="ui container comments">
       <Input focus placeholder="Search..." />{" "}
+      <Input focus placeholder="Error..." />{" "}
       <ApprovalCard>
         <div>
           <h4>Warning</h4>
