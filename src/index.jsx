@@ -12,7 +12,7 @@ const App = () => {
       <Input focus placeholder="Error..." />{" "}
       <ApprovalCard>
         <div>
-          <h4>Warning</h4>
+          <h4>Warning!</h4>
           Are you sure you want to do this?
         </div>
       </ApprovalCard>
