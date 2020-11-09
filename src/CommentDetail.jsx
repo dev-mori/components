@@ -6,6 +6,7 @@ export default function CommentDetail(props) {
     <div className="comment">
       <a href="/" className="avatar">
         <img alt="avatar" src={props.avatar} />
+        //コメントアウト
       </a>
       <div className="content">
         <a href="/" className="author">
